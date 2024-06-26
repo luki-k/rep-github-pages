@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Domantes ist ein Stier"
+  name: "Domantes ist ein Stier test"
   text: "Training Page for Cloud Computing Course"
   tagline: My great project tagline
   actions:
